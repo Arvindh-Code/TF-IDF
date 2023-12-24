@@ -73,6 +73,11 @@ print("(%s, %.12f)" % query("health insurance wall street"))
 - Ensure that your text files are properly formatted and stored in the `presidential_debates` directory.
 - The system uses TF-IDF for ranking documents, providing relevant results based on query terms.
 
+## Author
+
+- Aravindh Gopalsamy
+- gopal98aravindh@gmail.com
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
