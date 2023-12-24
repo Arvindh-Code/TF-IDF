@@ -8,7 +8,7 @@ This Python script implements an information retrieval system for analyzing and 
 
 Make sure you have the following installed:
 
-- Python 3.x
+- Python 3.6
 - NLTK library
 
 You can install NLTK using the following command:
